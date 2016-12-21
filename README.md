@@ -1,9 +1,9 @@
 # Attendance Management System
 ## Team Synergy:
-* Madhur Khandelwal
-* Siddharth Daftari
-* Seema Rohilla
 * Akshay Sonvane
+* Madhur Khandelwal
+* Seema Rohilla
+* Siddharth Daftari
 
 ## Objective:
 To create a an automated system that eliminates the manual process of attendance management.
